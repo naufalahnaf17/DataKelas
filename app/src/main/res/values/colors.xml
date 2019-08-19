@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EE6969</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="red">#CCF05151</color>
+    <color name="blue">#CC72E0F3</color>
+    <color name="black">#CC000000</color>
+    <color name="putih">#BEB5B5</color>
+
+    <color name="update">#CC80FDBA</color>
+    <color name="delete">#CCDD3333</color>
+    <color name="bgKuning">#E9D463</color>
+</resources>

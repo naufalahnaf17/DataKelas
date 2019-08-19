@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1026621019905",
+    "firebase_url": "https://datakelas-3cc0e.firebaseio.com",
+    "project_id": "datakelas-3cc0e",
+    "storage_bucket": "datakelas-3cc0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026621019905:android:00abd3eea8666c1c",
+        "android_client_info": {
+          "package_name": "app.android.datakelas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026621019905-f3shc5014v543q2fkfjv1jreamfu911d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.android.datakelas",
+            "certificate_hash": "ef6da0084740da345bf423324a5d0e31dbed836c"
+          }
+        },
+        {
+          "client_id": "1026621019905-u485aqavg2mncbl4k1lalfl47on80qj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB6BgrcI4QQOgJirBwTy_dSUq16fGL8ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026621019905-u485aqavg2mncbl4k1lalfl47on80qj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

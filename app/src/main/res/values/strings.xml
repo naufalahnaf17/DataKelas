@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">DataKelas</string>
+
+    <array name="kelas">
+        <item>Rekayasa Perangkat Lunak 1</item>
+        <item>Rekayasa Perangkat Lunak 2</item>
+        <item>Rekayasa Perangkat Lunak 3</item>
+        <item>Multimedia</item>
+        <item>Teknik Komputer Jaringan</item>
+    </array>
+
+    <array name="tingkatan">
+        <item>X</item>
+        <item>XI</item>
+        <item>XII</item>
+    </array>
+
+    <array name="kelamin">
+        <item>Laki Laki</item>
+        <item>Perempuan</item>
+    </array>
+
+</resources>
